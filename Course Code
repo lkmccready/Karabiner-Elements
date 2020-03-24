@@ -1,0 +1,21 @@
+^q::
+send, 10441
+;
+send, {TAB}
+;
+send, 11771
+;
+send, {TAB}
+;
+send, 11262
+;
+send, {TAB}
+;
+send, 14839
+;
+send, {TAB}
+;
+send, 11187
+;
+send, {TAB}
+return
